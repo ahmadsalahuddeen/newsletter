@@ -1,0 +1,11 @@
+{
+  "name": "newletter",
+  "version": "1.0.0",
+  "description": "a news letter project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swalah Codes",
+  "license": "ISC"
+}
